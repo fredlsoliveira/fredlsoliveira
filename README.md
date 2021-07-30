@@ -27,8 +27,8 @@
   <img align="center" alt="Fred-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg">
   <img align="center" alt="Fred-Javascript" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg">
   <img align="center" alt="Fred-PHP" height="40" width="50" src="https://icongr.am/devicon/php-original.svg">
-  <img align="center" alt="Fred-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Fred-Tomcat" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg">  
+  <img align="center" alt="Fred-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="Fred-Tomcat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg">  
   <img align="center" alt="Fred-Ubuntu" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
   <img align="center" alt="Fred-Debian" height="30" width="40" src="https://icongr.am/devicon/debian-original.svg">
   <img align="center" alt="Fred-Redhat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg">  
