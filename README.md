@@ -1,12 +1,6 @@
 ## Olá! Eu sou Fred Oliveira 
 
-- 🔭 Hoje trabalho com Business Intelligence (BI)
-- 🌱 Estudando SQL Server
-- 😄 Pronouns: ele/dele
-
-##
-
- <div>
+<div>
   <a href="https://github.com/fredlsoliveira">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=fredlsoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
