@@ -1,4 +1,4 @@
-## Olá! Eu sou Fred Oliveira 
+## Hi! I'm Fred Oliveira 
 
 <div>
   <a href="https://github.com/fredlsoliveira">
@@ -18,7 +18,7 @@
   <img align="center" alt="Fred-Oracle" height="30" width="40" src="https://img.icons8.com/color/48/000000/oracle-logo.png">
 </div> 
  
- ## Outras Experiências
+ ## Other Experiences
  
 <div> 
   
